@@ -190,7 +190,7 @@ compress_html:
     envs: [development]
 
 exclude:
-  #- README.md
+  - README.md
   - index.html
   
 jekyll-archives:
